@@ -40,17 +40,39 @@ struct AnimalDetailView: View {
                     InsetGalleryView(animal: animal)
                 }
                 .padding(.horizontal)
+                
+                //FACTS
+                Group {
+                    HeadingView(headingImage: "questionmark.circle", headingTitle: "Did you know?")
+                    
+                    InsetFactView(animal: animal)
+                }
+                .padding(.horizontal)
+                
                 // DESCRIPTION
-                
+                Group {
+                    HeadingView(headingImage: "info.circle", headingTitle: "All about \(animal.name)")
+                    
+                    Text(animal.description)
+                        .multilineTextAlignment(.leading)
+                        .layoutPriority(1)
+                }
+                .padding(.horizontal)
                 // MAP
-                
-                // LINK
+                Group {
+                    HeadingView(headingImage: "map", headingTitle: "National Parks")
+                    
+                    InsetMapView()
+                    
+                }
+                .padding(.horizontal)
             }
             .navigationTitle("Learn more about \(animal.name)")
             .navigationBarTitleDisplayMode(.inline)
         }
     }
 }
+
 
 #Preview {
     let animals: [Animal] = Bundle.main.decode(file: "animals.json")
