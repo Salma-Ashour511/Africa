@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct VideoListView: View {
-    var videos: [Video] = Bundle.main.decode(file: "videos.json")
+    @State var videos: [Video] = Bundle.main.decode(file: "videos.json")
     
     
     var body: some View {
@@ -19,6 +19,15 @@ struct VideoListView: View {
             }
             .listStyle(.insetGrouped)
             .navigationBarTitle("Videos", displayMode: .inline)
+            .toolbar {
+                ToolbarItem(placement: .topBarTrailing) {
+                    Button {
+                        videos.shuffle()
+                    } label: {
+                        Image(systemName: "arrow.2.squarepath")
+                    }
+                }
+            }
         }
     }
 }
