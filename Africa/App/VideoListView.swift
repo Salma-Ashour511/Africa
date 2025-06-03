@@ -8,8 +8,18 @@
 import SwiftUI
 
 struct VideoListView: View {
+    var videos: [Video] = Bundle.main.decode(file: "videos.json")
+    
+    
     var body: some View {
-        Text("Video List")
+        NavigationView {
+            List(videos) { video in
+                VideoListItem(video: video)
+                    .padding(.vertical, 8)
+            }
+            .listStyle(.insetGrouped)
+            .navigationBarTitle("Videos", displayMode: .inline)
+        }
     }
 }
 
