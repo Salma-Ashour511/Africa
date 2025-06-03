@@ -8,8 +8,10 @@
 import SwiftUI
 
 struct VideoListItem: View {
+    // MARK: - PROPERTIES
     var video: Video
     
+    // MARK: - BODY
     var body: some View {
         HStack(spacing: 10) {
             ZStack {
@@ -41,6 +43,7 @@ struct VideoListItem: View {
     }
 }
 
+// MARK: - PREVIEW
 #Preview(traits: .sizeThatFitsLayout) {
     let videos: [Video] = Bundle.main.decode(file: "videos.json")
     
