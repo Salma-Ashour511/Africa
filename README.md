@@ -80,43 +80,46 @@ Launch Screen
 
 Home [Animals List]
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 08](https://github.com/user-attachments/assets/a5a1b578-12ef-4e7d-932e-73ac588ef1b0)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 08](https://github.com/user-attachments/assets/13f715a7-2fb5-4d43-b600-a56d54727a1e)
 
 
 Home [Animals Grid]
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 12](https://github.com/user-attachments/assets/2625d8ee-b574-4a49-9145-41e2487a5a51)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 12](https://github.com/user-attachments/assets/5a7e0f9e-1538-4125-a4cd-be7e580c7613)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 15](https://github.com/user-attachments/assets/53653335-042f-46a9-9f9d-8f8cf8e9f000)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 15](https://github.com/user-attachments/assets/30b2961a-c2ad-4bfe-8e14-7de5715a2beb)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 17](https://github.com/user-attachments/assets/f690372c-3076-413c-8ade-6bcd83c4da78)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 17](https://github.com/user-attachments/assets/b1f2accc-47d5-47fa-8f39-782326fdb4a5)
 
 
 Animal Details
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 56](https://github.com/user-attachments/assets/80f2a9b9-66f1-41c1-9e7f-214136e58021)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 56](https://github.com/user-attachments/assets/046572d9-57ec-44f8-9c36-b9ce5544b3b0)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 21 01](https://github.com/user-attachments/assets/ffc1507f-d244-436d-a7f1-69f91ba111df)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 21 01](https://github.com/user-attachments/assets/b3d3fc7b-82d2-4268-8620-c28c1aceb57e)
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 21 07](https://github.com/user-attachments/assets/8ef55bb0-5cb3-46cc-9eb9-26504cf1b981)
+
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 21 23](https://github.com/user-attachments/assets/2862440c-915c-4f1c-90ec-a32f5b488f5a)
 
 
 Videos List
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 23](https://github.com/user-attachments/assets/735e35df-42e8-47af-8e0d-839155103895)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 23](https://github.com/user-attachments/assets/34ca1468-7236-42b7-90a2-4b1062a0ba5f)
 
 
 Video Player
 
-  ![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 27](https://github.com/user-attachments/assets/1a4224ee-9121-4d78-90b1-0e0ad60f18c6)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 27](https://github.com/user-attachments/assets/5e6497a1-6170-478f-839e-bf5d96d59714)
 
 
 Map
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 34](https://github.com/user-attachments/assets/8b710413-e952-44b4-a8d3-a519c3bb95ca)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 34](https://github.com/user-attachments/assets/1163469d-28e1-45a7-8fb8-32791083c2a1)
 
 
 Gallery
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 37](https://github.com/user-attachments/assets/59b8ad42-f146-40a0-94d8-3dc08c16e4eb)
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 37](https://github.com/user-attachments/assets/fd906a2f-dd7c-49e1-a330-ddea66406197)
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 40](https://github.com/user-attachments/assets/892b4462-1ab9-4282-9eb0-ff2bd077eeaa)
-
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-13 at 20 20 40](https://github.com/user-attachments/assets/86b4f5a0-65ec-45f8-8282-80b4c1586be8)
