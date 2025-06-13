@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  AnimalListView.swift
 //  Africa
 //
 //  Created by V17SAshour1 on 29/05/2025.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct AnimalListView: View {
     // MARK: - PROPERTIES
     let animals: [Animal] = Bundle.main.decode(file: "animals.json")
     @State private var isGridViewActive = false
@@ -98,5 +98,5 @@ struct ContentView: View {
 
 // MARK: - PREVIEW
 #Preview {
-    ContentView()
+    AnimalListView()
 }
